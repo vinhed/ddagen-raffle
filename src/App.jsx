@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 
 const DRAW_DATE = new Date('2025-10-09T13:00:00Z')
-const WINNER_URL = 'https://raw.githubusercontent.com/vinhed/ddagen-lottery/refs/heads/main/public/winner.ticket'
+const WINNER_URL = 'https://raw.githubusercontent.com/vinhed/ddagen-raffle/refs/heads/main/public/winner.ticket'
 
 function App() {
   const [timeLeft, setTimeLeft] = useState(getTimeRemaining())
