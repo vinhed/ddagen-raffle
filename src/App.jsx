@@ -85,7 +85,7 @@ function App() {
         <div className="content-wrapper">
           <div className="prize-info">
             <h2 className="prize-title">Sonos Roam 2</h2>
-            <img src="https://media.sonos.com/images/znqtjj88/production/110a711ffb1d9ec82743734ef7477a7d400c8d11-2400x2400.png" alt="Sonos Roam 2" className="product" />
+            <img src="https://media.sonos.com/images/znqtjj88/production/80940def711d17d1cdf1bfbb982456a092e9efd2-2400x2400.png?w=3840&q=100&fit=clip&auto=format" alt="Sonos Roam 2" className="product" />
             <p className="prize-desc">Experience premium sound anywhere you go with this portable Bluetooth speaker. Waterproof, durable, and designed for adventure.</p>
             <a href="https://www.sonos.com/sv-se/shop/roam-2" target="_blank" rel="noopener noreferrer" className="product-link">Learn More</a>
           </div>
